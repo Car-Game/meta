@@ -1,0 +1,24 @@
+### Compte rendu réunion 14/09 ###
+
+
+Projet de jeu vidéo de course de voiture en 2D validé.
+
+
+Prochaines étapes :
+
+1)  Pré-rapport à rendre le plus vite possible (probablement d'ici la fin du week-end).
+
+2)  Détermination des bibliothèques à employer (qui tienne compte de la 2D, des collisions, de la mécanique...) + se familiariser avec.  
+
+3)  Prototype du projet : circuit rond basique et voiture fonctionnelle (répondant bien aux touches du clavier).
+
+4)  En fonction du temps restant, différentes possibilités :
+
+        - ajout d'un player 2
+        - ajout de circuits plus complexes
+        - ajout éventuel d'un ordinateur pour jouer contre
+
+
+Aspects techniques :
+
+Volonté initiale de coder en Python avec PyGame. Java peut sembler plus judicieux compte tenu de l'aide que l'on peut recevoir. À voir aussi en fonction des bibliothèques Java disponibles ?
